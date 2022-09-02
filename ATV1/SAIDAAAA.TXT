@@ -1,0 +1,6 @@
+InsertionSort:  1 2 3 4 5 6 7 8 9 10, 9 comp, 1 ms 
+SelectionSort:  1 2 3 4 5 6 7 8 9 10, 9 comp, 1 ms 
+BubbleSort:  1 2 3 4 5 6 7 8 9 10, 9 comp, 0 ms 
+MergeSort:  1 2 3 4 5 6 7 8 9 10, 22 comp, 1 ms 
+QuickSort:  1 2 3 4 5 6 7 8 9 10,  10 comp, 0 ms 
+HeapSort: 1 2 3 4 5 6 7 8 9  10, 18 comp, 0 ms 
